@@ -34,6 +34,10 @@
 
 # Debug files
 *.dSYM/
+*.Debug/
+Debug/
+*.Release
+Release/
 
 #############################
 #           JAVA            #
@@ -45,3 +49,9 @@
 
 #lib
 *.jar
+
+#############################
+#           PROJECT         #
+#############################
+*.project
+*.cproject
